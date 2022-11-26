@@ -1,7 +1,7 @@
 
 - ماهي Hashing ؟
 - ماهي SQL injection
-- ماهي ماهي XSS (cross site scripting)
+-  ماهي XSS (cross site scripting)
 - ماهي تزوير الطلب عبر المواقع (Cross Site Request Forgery)
 
 
